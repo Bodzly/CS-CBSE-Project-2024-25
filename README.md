@@ -37,3 +37,10 @@ To set up the NotePad application on your local machine, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/notepad.git
+  
+2. **Navigate to the Project Directory:
+   ```bash
+   cd notepad
+  
+3. **Navigate to the Project Directory:	
+   
