@@ -1,4 +1,4 @@
-#NotePad Applicatio
+#NotePad Application
 
 Welcome to the NotePad Application repository! This project serves as my final year project, showcasing a simple yet functional note-taking application built using Python. The application features a user-friendly interface, allowing users to create, view, and manage their notes efficiently.
 Table of Contents
